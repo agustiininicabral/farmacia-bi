@@ -1,0 +1,7 @@
+# Power BI files are reviewed separately before publication
+*.pbix
+*.pbit
+# Local exports and editor files
+.DS_Store
+Thumbs.db
+~$*
